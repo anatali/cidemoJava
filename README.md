@@ -1,2 +1,2 @@
 # cidemoJava
-CI/CD demo for Java 
+CI/CD demo for Java  with GitHub actions
